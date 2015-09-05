@@ -1,0 +1,23 @@
+{
+  "name": "bionode-kegg",
+  "description": "Node.js module for working with KEGG API using Streams.",
+  "version": "0.1.0",
+  "homepage": "http://github.com/kozo2/bionode-kegg",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kozo2/bionode-kegg.git"
+  },
+  "author": {
+    "name": "Kozo Nishida",
+    "email": "knishida@riken.jp"
+  },
+  "dependencies": {
+    "request": "^2.60.0"
+  },
+  "keywords": [
+    "bioinformatics",
+    "KEGG"
+  ],
+  "main": "index.js",
+  "license": "MIT"
+}
